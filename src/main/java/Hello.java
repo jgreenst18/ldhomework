@@ -10,7 +10,7 @@ public class Hello {
   static final String SDK_KEY = "sdk-a78831d0-0634-4bf1-a9c4-afb4e719a9cb";
 
   // Set FEATURE_FLAG_KEY to the feature flag key you want to evaluate
-  static final String FEATURE_FLAG_KEY = "my-flag";
+  static final String FEATURE_FLAG_KEY = "New Button";
 
   public static void main(String... args) throws IOException {
     if (SDK_KEY.equals("")) {
